@@ -32,3 +32,6 @@
 /Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/obj/Debug/net9.0/tpmodul10_103022300093.pdb
 /Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/obj/Debug/net9.0/tpmodul10_103022300093.genruntimeconfig.cache
 /Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/obj/Debug/net9.0/ref/tpmodul10_103022300093.dll
+/Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/bintang/Documents/GitHub/tpmodul10_103022300093/tpmodul10_103022300093/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
